@@ -1,0 +1,14 @@
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\bin\Debug\net7.0\DesafioCodingTank.exe
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\bin\Debug\net7.0\DesafioCodingTank.deps.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\bin\Debug\net7.0\DesafioCodingTank.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\bin\Debug\net7.0\DesafioCodingTank.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\bin\Debug\net7.0\DesafioCodingTank.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\obj\Debug\net7.0\DesafioCodingTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\obj\Debug\net7.0\DesafioCodingTank.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\obj\Debug\net7.0\DesafioCodingTank.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\obj\Debug\net7.0\DesafioCodingTank.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\obj\Debug\net7.0\DesafioCodingTank.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\obj\Debug\net7.0\refint\DesafioCodingTank.dll
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\obj\Debug\net7.0\DesafioCodingTank.pdb
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\obj\Debug\net7.0\DesafioCodingTank.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Área de Trabalho\GitHub\desafio-codingtank\DesafioCodingTank\DesafioCodingTank\obj\Debug\net7.0\ref\DesafioCodingTank.dll
